@@ -1,0 +1,15 @@
+caneta.
+
+  Clicar com botãp direito
+      
+	  -Sychronization
+      - penDispatcher
+      - General
+      - shutdown
+
+
+
+ 
+  PlanetPress Capture
+
+         
